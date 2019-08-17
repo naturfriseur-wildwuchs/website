@@ -1,0 +1,19 @@
+{
+  "name": "wildwuchs-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "gh-pages": "parcel build index.html"
+  },
+  "author": "phlmn",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "parcel": "^1.12.3",
+    "svg.js": "^2.7.1"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0"
+  }
+}
