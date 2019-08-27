@@ -109,16 +109,16 @@ function App() {
             Für die Behandlung verwende ich ausschließlich schadstoffreie
             Naturprodukte in Bioqualität.
           </p>
-          <p>Deine Haut wird es dir danken.</p>
+          <p>Deine Haut wird es Dir danken.</p>
           <p>
             Gerne kannst du auch Deine eigenen Produkte von Zuhause mitbringen
             und wir überprüfen gemeinsam deren Inhaltsstoffe.
           </p>
           <p>
-            Als Friseurmeisterin verstehe ich es Dich zu gegebenen Anlässen
-            gezielt zu stylen. Darüber hinaus ist es mir ein Anliegen Dir den
+            Als Friseurmeisterin verstehe ich es, Dich zu gegebenen Anlässen
+            gezielt zu stylen. Darüber hinaus ist es mir ein Anliegen, Dir den
             passenden Haarschnitt und Deinen Haaren gezielt Ausdruck zu
-            verleihen um Deine innere Schönheit zu betonen.
+            verleihen, um Deine innere Schönheit zu betonen.
           </p>
         </TextContent>
       </Section>
