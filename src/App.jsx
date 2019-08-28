@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import { GoogleApiWrapper } from "google-maps-react";
 
 import Header from "./components/Header";
 import Section from "./components/Section";
@@ -23,7 +22,7 @@ const serviceEntries = [
   {
     title: "Pflanzenfarbe",
     notes:
-      "inkl. Farbberatung, Bürstenmassage, inkl. Bürstenmassage, Kopf- und Nackenmassage, Haarwäsche, Styling",
+      "inkl. Farbberatung, Bürstenmassage, Kopf- und Nackenmassage, Haarwäsche, Styling",
     duration: "60-90 min."
   },
   {
@@ -60,14 +59,12 @@ const ServiceEntryWrapper = styled.li`
 
 const ServiceEntryTitle = styled.div`
   font-weight: bold;
-  // margin-bottom: 8px;
 `;
 
 const ServiceEntryNotes = styled.div`
   font-style: italic;
   line-height: 24px;
   font-size: 0.9em;
-  // margin-bottom: 8px;
 `;
 
 const ServiceEntryDuration = styled.div``;
@@ -144,13 +141,13 @@ function App() {
           <p>
             Kristina Mandler
             <br />
-             St.-Jakob-Straße 17 
+            St.-Jakob-Straße 17 
             <br />
             07743 Jena
             <br />
             Tel. 01520 6243960
           </p>
-          <Map/>
+          <Map />
         </TextContent>
       </Section>
       <Section background="#605339" id="impressum">
@@ -161,11 +158,11 @@ function App() {
             <br />
             Kristina Mandler
             <br />
-             St.-Jakob-Straße 17 
+            St.-Jakob-Straße 17 
             <br />
             07743 Jena
             <br />
-             info@naturfriseur-wildwuchs.de 
+            info@naturfriseur-wildwuchs.de 
             <br />
             Tel. 01520 6243960
           </p>
