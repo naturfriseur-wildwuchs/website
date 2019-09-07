@@ -5,7 +5,7 @@
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html",
-    "gh-pages": "parcel build index.html && cp CNAME dist"
+    "gh-pages": "parcel build index.html && cp public/* dist"
   },
   "author": "phlmn",
   "license": "UNLICENSED",
