@@ -125,7 +125,7 @@ function App() {
           <div>
             <ServiceList>
               {serviceEntries.map((entry, i) => (
-                <ServiceEntry {...entry} />
+                <ServiceEntry key={i} {...entry} />
               ))}
             </ServiceList>
           </div>
