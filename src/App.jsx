@@ -87,10 +87,10 @@ const ServiceList = styled.ul`
 function App() {
   return (
     <React.Fragment>
-      <Header />
       <Section background="#f4f5f0" fullHeight>
         <Logo />
       </Section>
+      <Header />
       {/*green: #ccd96b*/}
       <Section id="zu-mir">
         <TextContent>
