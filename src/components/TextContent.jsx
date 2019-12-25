@@ -23,6 +23,10 @@ const TextContent = styled.div`
     font-size: 2.4rem;
     font-weight: 700;
   }
+
+  ul, ol {
+      padding: 16px 0 0 32px;
+  }
 `;
 
 export const InvertedTextContent = styled(TextContent) `

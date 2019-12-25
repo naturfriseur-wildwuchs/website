@@ -98,15 +98,20 @@ function App() {
           <p>Ich nehme mir Zeit für Dich.</p>
           <p>
             Während Deines 90-minütigen Erstbesuches beim Naturfriseur Wildwuchs
-            genießt Du meine ungeteilte Aufmerksamkeit. So rückst DU mit den
-            individuellen Bedürfnissen deiner Haare in das Zentrum meiner
+            in Jena genießt Du meine ungeteilte Aufmerksamkeit. So rückst DU mit
+            den individuellen Bedürfnissen deiner Haare in das Zentrum meiner
             ganzheitlichen Beratung.
           </p>
           <p>
-            Für die Behandlung verwende ich ausschließlich schadstoffreie
-            Naturprodukte in Bioqualität.
+            Ich arbeite chemiefrei und verwende für die Behandlung
+            ausschließlich schadstoffreie Naturprodukte in Bioqualität.
           </p>
           <p>Deine Haut wird es Dir danken.</p>
+          <p>
+            Gerade wenn dich spezielle Themen beschäftigen, wie z.B. Schuppen,
+            Haarausfall, feines Haar oder Neurodermitis, berate ich dich gern
+            und stehe dir unterstützend zur Seite.
+          </p>
           <p>
             Gerne kannst du auch Deine eigenen Produkte von Zuhause mitbringen
             und wir überprüfen gemeinsam deren Inhaltsstoffe.
@@ -116,6 +121,17 @@ function App() {
             gezielt zu stylen. Darüber hinaus ist es mir ein Anliegen, Dir den
             passenden Haarschnitt und Deinen Haaren gezielt Ausdruck zu
             verleihen, um Deine innere Schönheit zu betonen.
+          </p>
+          <p>
+            Bei mir bist du in guten Händen, wenn du Wert legst auf:
+            <ul>
+              <li>einen typgerechten Look</li>
+              <li>unkompliziertes Styling</li>
+              <li>individuelle, ganzheitliche Beratung</li>
+              <li>einen Friseurbesuch ohne Hektik</li>
+              <li>Naturprodukte</li>
+              <li>einen nachhaltigen Umgang mit der Natur</li>
+            </ul>
           </p>
         </TextContent>
       </Section>
